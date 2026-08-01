@@ -1,2 +1,0 @@
-# katalog-maul
-fashion
