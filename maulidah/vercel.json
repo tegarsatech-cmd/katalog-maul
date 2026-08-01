@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/", "destination": "/UrbanStyle-Catalog/index.html" },
+    { "source": "/(.*)", "destination": "/UrbanStyle-Catalog/$1" }
+  ],
+  "cleanUrls": false,
+  "trailingSlash": false
+}
+
